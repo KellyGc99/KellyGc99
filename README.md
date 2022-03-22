@@ -7,7 +7,7 @@
   
 - 🔭 Haciendo [Burguer Queen](https://github.com/KellyGc99/Burger-queen-ReactJs)
 
-- 🌱 Estoy aprendiendo React JS, SQL, JS, Bootstrap, Python.
+- 🌱 Estoy aprendiendo React JS.
 
 - 📫 Puedes contactarme gutierrezkelly88@gmail.com
 

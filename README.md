@@ -4,10 +4,7 @@
 
 <h3 align="center">Front end Developer Junior , apasionada por la programación, la fotografía, el anime y los videojuegos.</h3
 
-  
 - 🔭 Haciendo [Burguer Queen](https://github.com/KellyGc99/Burger-queen-ReactJs)
-
 - 🌱 Estoy aprendiendo React JS.
-
 - 📫 Puedes contactarme gutierrezkelly88@gmail.com
 

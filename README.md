@@ -4,10 +4,10 @@
  💛 Front end Developer, egresada de Laboratoria < L >, Comunicadora Social y Periodista.
  
  Estoy convencida de que se puede transformar a través de la tecnología y la comunicación, crear oportunidades y construir algo mucho mejor.
+ 
+<img align="right" width="600" src="https://i.postimg.cc/bJ64xw33/FED-Hecho-con-Clipchamp.gif">
 
 #### Estoy aprendiendo 🌱
-
-<img align="right" width="600" src="https://i.postimg.cc/bJ64xw33/FED-Hecho-con-Clipchamp.gif">
 
  * ![alt text][1.3] JavaScript                          
  * ![alt text][1.4] HTML                                                                                                                                           

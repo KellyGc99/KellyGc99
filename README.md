@@ -1,10 +1,17 @@
-<h1 align="center">Hola 👋, Soy Kelly Johana Gutierrez Cobos</h1>
+
+### Hola, soy Kelly Johana Gutiérrez Cobos ✨
+
+ 💛 Front end Developer, egresada de Laboratoria < L >
+
+#### Sobre mí 👩🏻‍💻
+
+- 🌱 Estoy aprendienndo React Js 
+- 🔭 Haciendo [Burguer Queen](https://github.com/KellyGc99/Burger-queen-ReactJs)
+
+### Contáctame
+
+- 📫 Correo <a href="gutierrezkelly@gmail.com">gutierrezkelly88@gmail.com</a> 
+- 📫[LinkedIn](https://co.linkedin.com/in/kelly-johana-gutierrez-cobos-bab607215).
 
 [![FED-Hecho-con-Clipchamp.gif](https://i.postimg.cc/bJ64xw33/FED-Hecho-con-Clipchamp.gif)](https://postimg.cc/2bZHmrpZ)
-
-<h3 align="center">Front end Developer Junior , apasionada por la programación, la fotografía, el anime y los videojuegos.</h3
-
-- 🔭 Haciendo [Burguer Queen](https://github.com/KellyGc99/Burger-queen-ReactJs)
-- 🌱 Estoy aprendiendo React JS.
-- 📫 Puedes contactarme gutierrezkelly88@gmail.com
 
